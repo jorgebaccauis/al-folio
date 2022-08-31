@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jorgebaccauis
+  - bemc22
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jorgebaccauis/Deep_Prior_Low_Rank
+  - jorgebaccauis/Shift-Variant-System
+  - jorgebaccauis/Interpretable_HSI_SR
+  - jorgebaccauis/Deep_Coded_Aperture
