@@ -6,7 +6,7 @@ subtitle: Research Scientist at <a href='#'>HDSP Group.</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Jorge-Bacca.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
