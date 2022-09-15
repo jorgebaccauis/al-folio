@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jorge
 middle_name: 
 last_name: Bacca
-email: 
+email: jorge.bacca1@correo.uis.edu.co
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -71,11 +71,11 @@ gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: jorge-luis-bacca-quintero-165b25139 # your LinkedIn user name
 scholar_userid: I5f1HjEAAAAJ&hl=es&oi=ao # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: https://orcid.org/0000-0001-5264-7891 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Jorge-Bacca # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
