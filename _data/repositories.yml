@@ -3,7 +3,10 @@ github_users:
   - bemc22
 
 github_repos:
+  - jorgebaccauis/Deep_Coded_Aperture
   - jorgebaccauis/Deep_Prior_Low_Rank
   - jorgebaccauis/Shift-Variant-System
   - jorgebaccauis/Interpretable_HSI_SR
-  - jorgebaccauis/Deep_Coded_Aperture
+  - jorgebaccauis/Coded-Aperture-Design-for-Compressive-Spectral-Subspace-Clustering
+  - bemc22/JR2net
+  
